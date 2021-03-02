@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My fav topics: cloud infrastructures, ML systems, embedded systems  
+My top languages: C/C++, Go, Python 
+
 <!--
 **yiransii/yiransii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

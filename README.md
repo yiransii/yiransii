@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My fav topics: cloud infrastructures, ML systems, embedded systems  
-My top languages: C/C++, Go, Python 
+My fav topics:       Cloud Infrastructures, ML Systems, Embedded Systems  
+My top languages:    C/C++, Go, Python 
 
 Currently I am reading papers on ML systems and I need some help with: installing python3.7 on cloudlab
 

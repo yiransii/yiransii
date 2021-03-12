@@ -3,7 +3,8 @@
 My fav topics:       Cloud Infrastructures, ML Systems, Embedded Systems  
 My top languages:    C/C++, Go, Python 
 
-Currently I am reading papers on ML systems and I need some help with: installing python3.7 on cloudlab
+Currently I am reading papers on ML systems and I need some help with: 
+having multiple machines running ML models in dockers and talk to the resource manager 
 
 <!--
 **yiransii/yiransii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

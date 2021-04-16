@@ -3,8 +3,7 @@
 My fav topics:       Cloud Infrastructures, ML Systems, Embedded Systems  
 My top languages:    C/C++, Go, Python 
 
-Currently I am reading papers on ML systems and I need some help with: 
-having multiple machines running ML models in dockers and talk to the resource manager 
+Currently I am reading papers on ML systems and working on a project about incorporating transcient instances to lower cost for serving systems 
 
 <!--
 **yiransii/yiransii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

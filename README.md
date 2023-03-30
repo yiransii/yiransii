@@ -5,6 +5,11 @@ My top languages:    C/C++, Go, Python
 
 Currently I am reading papers on ML systems and working on a project about incorporating transcient instances to lower cost for serving systems 
 
+-------------------------------------------------------
+
+2023.03.30
+I graduated from college and guess what, I no longer live in any college bubbles. I am a employed software engineer now.
+
 <!--
 **yiransii/yiransii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
